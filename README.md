@@ -12,8 +12,7 @@ This project explores the relationship between Gross Domestic Product (GDP) per 
 6. [Analysis](#analysis)
 7. [Key Findings](#key-findings)
 8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact Information](#contact-information)
+9. [Contact Information](#contact-information)
 
 ## Data Sources
 - **Gross Domestic Product (GDP) per capita**: [UN Data](http://data.un.org/Data.aspx?d=WDI&f=Indicator_Code%3aNY.GDP.PCAP.PP.KD)
